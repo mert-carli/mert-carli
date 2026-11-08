@@ -24,7 +24,7 @@ Software developer focused on building modular desktop applications, multi-tenan
 | Project | Tech Stack | Overview |
 | :--- | :--- | :--- |
 | **[SENTRIX](https://github.com/mert-carli/SENTRIX)** | Python, CustomTkinter, SQLite (WAL) | Modular Windows cybersecurity, live network topology discovery, attack graph correlation, DFIR, and local AI security operations platform. |
-| **[MasaLink](https://github.com/mert-carli/MasaLink)** | Next.js 14, TypeScript, Prisma, PostgreSQL, Docker | Multi-tenant cloud restaurant POS, cryptographic QR table ordering, live Kitchen Display System (KDS), and recipe/inventory management platform. |
+| **[MasaLink](https://github.com/mert-carli/MasaLink)** | Next.js 14, TypeScript, Prisma, PostgreSQL, Docker | Multi-tenant cloud restaurant POS, cryptographic QR table ordering, live Kitchen Display System (KDS), and recipe/inventory management platform. ([Live Demo](https://masalink.vercel.app/)) |
 | **[NEXUS](https://github.com/mert-carli/NEXUS)** | FastAPI, React 19, TypeScript, ChromaDB, Ollama | Local AI-powered codebase intelligence and RAG assistant with AST-aware chunking, controlled diff preview, and automated test validation. |
 | **[Local-RAG-Assistant](https://github.com/mert-carli/Local-RAG-Assistant)** | Node.js, Express, SQLite, Foundry Local | 100% offline PDF and Markdown question-answering assistant with local vector indexing and zero external cloud calls. |
 | **[CavalettaGuncel](https://github.com/mert-carli/CavalettaGuncel)** | HTML5, CSS3, Vanilla JavaScript | Official brand showcase featuring an interactive 34-page digital flipbook catalog and B2B WhatsApp quote integration. ([Live Demo](https://mert-carli.github.io/CavalettaGuncel/)) |
